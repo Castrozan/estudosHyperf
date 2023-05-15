@@ -1,8 +1,11 @@
 
 # Dependencias 
 ```composer require hyperf/view-engine```
+
 ```php bin/hyperf.php vendor:publish hyperf/view-engine```
 
+
+Rode com:
 ```php bin/hyperf.php start```
 
 # Introduction
